@@ -17,3 +17,99 @@
 +defaults/osx-arm64::xz-5.4.2-h80987f9_0
 +defaults/osx-arm64::zlib-1.2.13-h5a0b063_0
 # update specs: ['python']
+==> 2023-05-06 17:41:26 <==
+# cmd: /Users/xavioorthuis/anaconda3/bin/conda install ipykernel
+# conda version: 23.3.1
++defaults/noarch::asttokens-2.0.5-pyhd3eb1b0_0
++defaults/noarch::backcall-0.2.0-pyhd3eb1b0_0
++defaults/noarch::decorator-5.1.1-pyhd3eb1b0_0
++defaults/noarch::executing-0.8.3-pyhd3eb1b0_0
++defaults/noarch::parso-0.8.3-pyhd3eb1b0_0
++defaults/noarch::pexpect-4.8.0-pyhd3eb1b0_3
++defaults/noarch::pickleshare-0.7.5-pyhd3eb1b0_1003
++defaults/noarch::ptyprocess-0.7.0-pyhd3eb1b0_2
++defaults/noarch::pure_eval-0.2.2-pyhd3eb1b0_0
++defaults/noarch::pygments-2.11.2-pyhd3eb1b0_0
++defaults/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0
++defaults/noarch::six-1.16.0-pyhd3eb1b0_1
++defaults/noarch::stack_data-0.2.0-pyhd3eb1b0_0
++defaults/noarch::wcwidth-0.2.5-pyhd3eb1b0_0
++defaults/osx-arm64::appnope-0.1.2-py311hca03da5_1001
++defaults/osx-arm64::comm-0.1.2-py311hca03da5_0
++defaults/osx-arm64::debugpy-1.5.1-py311h313beb8_0
++defaults/osx-arm64::ipykernel-6.19.2-py311h37496c9_0
++defaults/osx-arm64::ipython-8.12.0-py311hca03da5_0
++defaults/osx-arm64::jedi-0.18.1-py311hca03da5_1
++defaults/osx-arm64::jupyter_client-8.1.0-py311hca03da5_0
++defaults/osx-arm64::jupyter_core-5.3.0-py311hca03da5_0
++defaults/osx-arm64::libcxx-14.0.6-h848a8c0_0
++defaults/osx-arm64::libsodium-1.0.18-h1a28f6b_0
++defaults/osx-arm64::matplotlib-inline-0.1.6-py311hca03da5_0
++defaults/osx-arm64::nest-asyncio-1.5.6-py311hca03da5_0
++defaults/osx-arm64::packaging-23.0-py311hca03da5_0
++defaults/osx-arm64::platformdirs-2.5.2-py311hca03da5_0
++defaults/osx-arm64::prompt-toolkit-3.0.36-py311hca03da5_0
++defaults/osx-arm64::psutil-5.9.0-py311h80987f9_0
++defaults/osx-arm64::pyzmq-25.0.2-py311h313beb8_0
++defaults/osx-arm64::tornado-6.2-py311h80987f9_0
++defaults/osx-arm64::traitlets-5.7.1-py311hca03da5_0
++defaults/osx-arm64::zeromq-4.3.4-hc377ac9_0
+# update specs: ['ipykernel']
+==> 2023-05-06 17:45:06 <==
+# cmd: /Users/xavioorthuis/anaconda3/bin/conda install pandas numpy matplotlib scipy scikit-learn
+# conda version: 23.3.1
++defaults/noarch::appdirs-1.4.4-pyhd3eb1b0_0
++defaults/noarch::charset-normalizer-2.0.4-pyhd3eb1b0_0
++defaults/noarch::cycler-0.11.0-pyhd3eb1b0_0
++defaults/noarch::fonttools-4.25.0-pyhd3eb1b0_0
++defaults/noarch::munkres-1.1.4-py_0
++defaults/noarch::pooch-1.4.0-pyhd3eb1b0_0
++defaults/noarch::pycparser-2.21-pyhd3eb1b0_0
++defaults/noarch::threadpoolctl-2.2.0-pyh0d69192_0
++defaults/osx-arm64::blas-1.0-openblas
++defaults/osx-arm64::bottleneck-1.3.5-py311ha0d4635_0
++defaults/osx-arm64::brotli-1.0.9-h1a28f6b_7
++defaults/osx-arm64::brotli-bin-1.0.9-h1a28f6b_7
++defaults/osx-arm64::brotlipy-0.7.0-py311h80987f9_1002
++defaults/osx-arm64::certifi-2022.12.7-py311hca03da5_0
++defaults/osx-arm64::cffi-1.15.1-py311h80987f9_3
++defaults/osx-arm64::contourpy-1.0.5-py311h48ca7d4_0
++defaults/osx-arm64::cryptography-39.0.1-py311h834c97f_0
++defaults/osx-arm64::freetype-2.12.1-h1192e45_0
++defaults/osx-arm64::giflib-5.2.1-h80987f9_3
++defaults/osx-arm64::idna-3.4-py311hca03da5_0
++defaults/osx-arm64::joblib-1.1.1-py311hca03da5_0
++defaults/osx-arm64::jpeg-9e-h80987f9_1
++defaults/osx-arm64::kiwisolver-1.4.4-py311h313beb8_0
++defaults/osx-arm64::lcms2-2.12-hba8e193_0
++defaults/osx-arm64::lerc-3.0-hc377ac9_0
++defaults/osx-arm64::libbrotlicommon-1.0.9-h1a28f6b_7
++defaults/osx-arm64::libbrotlidec-1.0.9-h1a28f6b_7
++defaults/osx-arm64::libbrotlienc-1.0.9-h1a28f6b_7
++defaults/osx-arm64::libdeflate-1.17-h80987f9_0
++defaults/osx-arm64::libgfortran-5.0.0-11_3_0_hca03da5_28
++defaults/osx-arm64::libgfortran5-11.3.0-h009349e_28
++defaults/osx-arm64::libopenblas-0.3.21-h269037a_0
++defaults/osx-arm64::libpng-1.6.39-h80987f9_0
++defaults/osx-arm64::libtiff-4.5.0-h313beb8_2
++defaults/osx-arm64::libwebp-1.2.4-ha3663a8_1
++defaults/osx-arm64::libwebp-base-1.2.4-h80987f9_1
++defaults/osx-arm64::llvm-openmp-14.0.6-hc6e5704_0
++defaults/osx-arm64::lz4-c-1.9.4-h313beb8_0
++defaults/osx-arm64::matplotlib-3.7.1-py311hca03da5_1
++defaults/osx-arm64::matplotlib-base-3.7.1-py311h7aedaa7_1
++defaults/osx-arm64::numexpr-2.8.4-py311h6dc990b_1
++defaults/osx-arm64::numpy-1.24.3-py311hb57d4eb_0
++defaults/osx-arm64::numpy-base-1.24.3-py311h1d85a46_0
++defaults/osx-arm64::pandas-1.5.3-py311h6956b77_0
++defaults/osx-arm64::pillow-9.4.0-py311h313beb8_0
++defaults/osx-arm64::pyopenssl-23.0.0-py311hca03da5_0
++defaults/osx-arm64::pyparsing-3.0.9-py311hca03da5_0
++defaults/osx-arm64::pysocks-1.7.1-py311hca03da5_0
++defaults/osx-arm64::pytz-2022.7-py311hca03da5_0
++defaults/osx-arm64::requests-2.29.0-py311hca03da5_0
++defaults/osx-arm64::scikit-learn-1.2.2-py311h313beb8_0
++defaults/osx-arm64::scipy-1.10.1-py311hc76d9b0_0
++defaults/osx-arm64::urllib3-1.26.15-py311hca03da5_0
++defaults/osx-arm64::zstd-1.5.5-hd90d995_0
+# update specs: ['pandas', 'scikit-learn', 'matplotlib', 'numpy', 'scipy']
