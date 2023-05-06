@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/Users/xavioorthuis/Documents/Projects/spaceship-titanic/env
+exec_prefix=/Users/xavioorthuis/Documents/Projects/spaceship-titanic/env
+libdir=/Users/xavioorthuis/Documents/Projects/spaceship-titanic/env/lib
+includedir=/Users/xavioorthuis/Documents/Projects/spaceship-titanic/env/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: https://tukaani.org/xz/
+Version: 5.4.2
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private: -pthread -lpthread

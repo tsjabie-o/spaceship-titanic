@@ -1,0 +1,13 @@
+prefix=/Users/xavioorthuis/Documents/Projects/spaceship-titanic/env
+exec_prefix=/Users/xavioorthuis/Documents/Projects/spaceship-titanic/env
+libdir=/Users/xavioorthuis/Documents/Projects/spaceship-titanic/env/lib
+sharedlibdir=/Users/xavioorthuis/Documents/Projects/spaceship-titanic/env/lib
+includedir=/Users/xavioorthuis/Documents/Projects/spaceship-titanic/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
